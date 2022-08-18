@@ -13,7 +13,7 @@
       </div>
       <div class="card-footer">
         <img :src="userImage" class="comment-author-img" />
-        <button class="btn btn-sm btn-primary">Post Comment</button>
+        <button class="btn btn-sm btn-primary">Post Comment now</button>
       </div>
     </form>
   </div>
